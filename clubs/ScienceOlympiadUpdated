@@ -1,0 +1,28 @@
+{
+  "name": "Science Olympiad",
+  "imgsrc": "INSERT NEW SCIENCE OLYMPIAD PICTURE FILE NAME HERE",
+  "description": "Science Olympiad is an event style academic competition where a team of 15 students participates in various science-related events against other schools across the city and state. Event topics range from Engineering to Natural Sciences (Biology, Chemistry, Physics, Earth Science, Astronomy, etc.) to Computer Science and Math.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Alex Burr: ajb.alex.j.burr@gmail.com, wyscioly@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Gallardo"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Fridays in room 322 from 3:30 to 5:30."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": "sites.google.com/site/wyscioly"
+    }
+  ]
+}
